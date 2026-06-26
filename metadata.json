@@ -1,0 +1,6 @@
+{
+  "name": "Psychologist Oscar Rai",
+  "description": "Official landing page and appointment booking portal for Oscar S. Rai, clinical psychologist in Krasnodar with 20+ years of experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
